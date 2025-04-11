@@ -1,0 +1,115 @@
+[
+    {
+      "name": "iPhone 15 Pro Max",
+      "price": "1399",
+      "description": "Apple iPhone 15 Pro Max with A17 Pro chip and 48MP camera",
+      "rating": "4.8",
+      "images": [
+        { "image": "/images/products/iphone 15 pro max.webp" }
+      ],
+      "catagory": "Mobile Phones",
+      "seller": "Apple Store",
+      "stock": "50",
+      "numofReviews": "1240",
+      "createdAt": "2024-03-10T10:00:00Z"
+    },
+    {
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": "1299",
+      "description": "Samsung flagship phone with Snapdragon 8 Gen 3 and 200MP camera",
+      "rating": "4.7",
+      "images": [
+        { "image": "/images/products/Samsun s24 ultra.webp" }
+      ],
+      "catagory": "Smartphones",
+      "seller": "Samsung Official",
+      "stock": "30",
+      "numofReviews": "980",
+      "createdAt": "2024-02-25T15:30:00Z"
+    },
+    {
+      "name": "OnePlus 12 Pro",
+      "price": "899",
+      "description": "OnePlus 12 Pro with Hasselblad camera and 120Hz AMOLED display",
+      "rating": "4.6",
+      "images": [
+        { "image": "/images/products/onepplus 12 pro.webp" }
+      ],
+      "catagory": "Android Phones",
+      "seller": "OnePlus Official",
+      "stock": "70",
+      "numofReviews": "850",
+      "createdAt": "2024-01-12T08:45:00Z"
+    },
+    {
+      "name": "Google Pixel 8 Pro",
+      "price": "1099",
+      "description": "Google Pixel 8 Pro with AI-powered camera and pure Android experience",
+      "rating": "4.5",
+      "images": [
+        { "image": "/images/products/google pixel 8.webp" }
+      ],
+      "catagory": "Google Phones",
+      "seller": "Google Store",
+      "stock": "40",
+      "numofReviews": "760",
+      "createdAt": "2024-02-15T12:10:00Z"
+    },
+    {
+      "name": "ASUS ROG Phone 7",
+      "price": "1199",
+      "description": "Gaming smartphone with Snapdragon 8 Gen 3 and 165Hz display",
+      "rating": "4.8",
+      "images": [
+        { "image": "/images/products/Asus rog  9 pro.webp" }
+      ],
+      "catagory": "Gaming Phones",
+      "seller": "ASUS Official",
+      "stock": "25",
+      "numofReviews": "450",
+      "createdAt": "2024-01-05T09:15:00Z"
+    },
+      {
+        "name": "IQOO 13 5G",
+        "price": "999",
+        "description": "IQOO 13 5G with Leica-powered camera and Snapdragon 8 Gen 3",
+        "rating": "4.6",
+        "images": [
+          { "image": "/images/products/IQOO 13 5G.webp" }
+        ],
+        "catagory": "Flagship Phones",
+        "seller": "Xiaomi Official",
+        "stock": "60",
+        "numofReviews": "820",
+        "createdAt": "2024-02-28T14:20:00Z"
+      },
+      {
+        "name": "Nothing Phone 2",
+        "price": "749",
+        "description": "Nothing Phone 2 with transparent design and Glyph Interface",
+        "rating": "4.4",
+        "images": [
+          { "image": "/images/products/Nothingphone 2.webp" }
+        ],
+        "catagory": "Innovative Phones",
+        "seller": "Nothing Official",
+        "stock": "35",
+        "numofReviews": "630",
+        "createdAt": "2024-03-05T11:30:00Z"
+      },
+      {
+        "name": "Motorola Edge 50 Fusion 5G",
+        "price": "1199",
+        "description": "Motorola Edge 50 Fusion 5G with 4K OLED display and pro-grade camera",
+        "rating": "4.7",
+        "images": [
+          { "image": "/images/products/Motorola Edge 50 Fusion 5G.webp" }
+        ],
+        "catagory": "Photography Phones",
+        "seller": "Motorola Official",
+        "stock": "20",
+        "numofReviews": "410",
+        "createdAt": "2024-01-18T16:45:00Z"
+      }
+  ]
+  
