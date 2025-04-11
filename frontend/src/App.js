@@ -19,7 +19,7 @@ function App() {
   });
 
   
-  //hari nivsasaa
+  //hari nivsasaa 8595
   // Save to localStorage whenever cartItems changes
   useEffect(() => {
     localStorage.setItem("cartItems", JSON.stringify(cartItems));
